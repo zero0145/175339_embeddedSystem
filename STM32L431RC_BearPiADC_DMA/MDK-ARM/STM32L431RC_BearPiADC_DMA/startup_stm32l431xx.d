@@ -1,0 +1,1 @@
+stm32l431rc_bearpiadc_dma\startup_stm32l431xx.o: startup_stm32l431xx.s
