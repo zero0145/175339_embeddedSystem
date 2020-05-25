@@ -1,0 +1,1 @@
+stm32l431rc_bearpi_v25q64-qspi\startup_stm32l431xx.o: startup_stm32l431xx.s
