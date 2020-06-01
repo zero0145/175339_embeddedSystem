@@ -1,0 +1,1 @@
+stm32l431rc_bearpi_bh1750_i2c1\startup_stm32l431xx.o: startup_stm32l431xx.s
